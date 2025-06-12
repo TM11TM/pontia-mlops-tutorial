@@ -7,3 +7,4 @@ azure-identity
 pytest
 mlflow-skinny
 numpy
+pytest-cov
