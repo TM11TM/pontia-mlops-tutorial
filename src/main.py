@@ -10,7 +10,6 @@ from data_loader import load_data, preprocess_data
 from evaluate import evaluate
 from model import train_model
 
-
 # Configurar logging (consola + archivo)
 logging.basicConfig(
     level=logging.INFO,
